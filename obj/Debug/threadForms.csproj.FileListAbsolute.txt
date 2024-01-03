@@ -1,0 +1,11 @@
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\211229036_SaziyeDag_Vize1\threadForms\obj\Debug\threadForms.csproj.AssemblyReference.cache
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\211229036_SaziyeDag_Vize1\threadForms\obj\Debug\threadForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\211229036_SaziyeDag_Vize1\threadForms\obj\Debug\threadForms.Form1.resources
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\211229036_SaziyeDag_Vize1\threadForms\obj\Debug\threadForms.Properties.Resources.resources
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\211229036_SaziyeDag_Vize1\threadForms\obj\Debug\threadForms.csproj.GenerateResource.cache
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\211229036_SaziyeDag_Vize1\threadForms\obj\Debug\threadForms.csproj.CoreCompileInputs.cache
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\211229036_SaziyeDag_Vize1\threadForms\bin\Debug\threadForms.exe.config
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\211229036_SaziyeDag_Vize1\threadForms\bin\Debug\threadForms.exe
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\211229036_SaziyeDag_Vize1\threadForms\bin\Debug\threadForms.pdb
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\211229036_SaziyeDag_Vize1\threadForms\obj\Debug\threadForms.exe
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\211229036_SaziyeDag_Vize1\threadForms\obj\Debug\threadForms.pdb
